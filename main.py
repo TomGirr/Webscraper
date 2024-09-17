@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import time
 
-numPages = int(input('How many pages would you like to scrape? (Max 50)'))
+numPages = int(input('How many pages would you like to scrape? (Max 50): '))
 # Step 2: Make a request to the website
 base_url = 'http://books.toscrape.com/catalogue/page-'
 pageNum = 1
