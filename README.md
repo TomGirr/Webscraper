@@ -28,7 +28,7 @@ This project is a Python-based web scraper that extracts book details (title, ra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TomGirr/book-scraper.git
+   git clone https://github.com/TomGirr/Webscraper.git
    ```
 2. Navigate to the project directory:
    ```bash
